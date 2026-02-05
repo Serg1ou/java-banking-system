@@ -1,0 +1,8 @@
+[versions]
+algoutils = "0.7.2"
+
+[plugins]
+algomate = "org.tudalgo.algomate:0.6.1"
+
+[libraries]
+algoutils-student = { module = "org.tudalgo:algoutils-student", version.ref = "algoutils" }

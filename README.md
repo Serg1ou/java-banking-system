@@ -17,5 +17,5 @@ This project implements a simplified banking system in Java, including:
 - Detection and handling of outdated transactions
 - Custom exception hierarchy
 
-## 📎 Notes
+## Notes
 This repository contains **my own implementation and fixes** based on the original assignment specification.
